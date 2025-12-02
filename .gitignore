@@ -207,3 +207,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Virtual Environment
+web_store/bin/
+web_store/lib/
+web_store/lib64/
+web_store/include/
+web_store/pyvenv.cfg
+web_store/share/
+venv/
+env/
+.venv/
